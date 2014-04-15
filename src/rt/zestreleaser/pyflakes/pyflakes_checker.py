@@ -3,9 +3,6 @@
 import os
 import sys
 import fnmatch
-import shutil
-import glob
-import ConfigParser
 import zest.releaser.utils
 from StringIO import StringIO
 

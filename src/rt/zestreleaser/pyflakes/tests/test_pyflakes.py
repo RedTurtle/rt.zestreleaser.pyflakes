@@ -2,7 +2,6 @@
 
 import unittest
 import mock
-import tempfile
 import os.path
 from rt.zestreleaser.pyflakes.pyflakes_checker import check
 
