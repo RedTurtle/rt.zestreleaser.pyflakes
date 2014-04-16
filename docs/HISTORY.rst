@@ -10,8 +10,8 @@ Changelog
 0.1.1 (2014-04-15)
 ------------------
 
-- Nothing changed yet.
-
+- Fixed wrong egg namespace structure
+  [keul]
 
 0.1.0 (2014-04-15)
 ------------------
